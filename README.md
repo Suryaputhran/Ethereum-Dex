@@ -1,9 +1,9 @@
 
-# ThatBlockchain Exchange
+# Trustless Exchange
 
-"ThatBlockchain-Exchange" is an open-source decentralized exchange platform that operates on the Ethereum blockchain. The platform offers users the opportunity to trade various cryptocurrencies without relying on centralized intermediaries or authorities.
+"Trustless -Exchange" is an open-source decentralized exchange platform that operates on the Ethereum blockchain. The platform offers users the opportunity to trade various cryptocurrencies without relying on centralized intermediaries or authorities.
 
-The project's core objective is to address the challenges associated with centralized exchanges, such as high transaction fees, slow processing times, and security vulnerabilities. By leveraging the benefits of blockchain technology, ThatBlockchain-Exchange allows for faster, more affordable, and secure cryptocurrency trading.
+The project's core objective is to address the challenges associated with centralized exchanges, such as high transaction fees, slow processing times, and security vulnerabilities. By leveraging the benefits of blockchain technology, Trustless -Exchange allows for faster, more affordable, and secure cryptocurrency trading.
 
 This project may be of interest to individuals who are passionate about blockchain technology, decentralized finance, and cryptocurrency trading. Additionally, developers looking to contribute to an open-source project and enhance their skills in building decentralized applications could find this project valuable.
 
@@ -117,7 +117,7 @@ You can get an Metamask wallet by installing Metamask extension on your browser 
 
 2. Clone the repository by running the following command in your terminal:
 ```bash
-  git clone https://github.com/exyreams/ThatBlockchain-Exchange.git
+  git clone https://github.com/exyreams/Trustless -Exchange.git
 ```
 
 3. Navigate to the directory where you cloned the repository and install the required dependencies by running the following command:
@@ -158,30 +158,30 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## FAQ
 
-#### What cryptocurrencies can be traded on ThatBlockchain-Exchange?
+#### What cryptocurrencies can be traded on Trustless -Exchange?
 
-➝ ThatBlockchain-Exchange supports trading of various tokens on the Ethereum blockchain. Users can trade ERC-20 tokens and Ether (ETH) on the platform.
+➝ Trustless -Exchange supports trading of various tokens on the Ethereum blockchain. Users can trade ERC-20 tokens and Ether (ETH) on the platform.
 
-#### Is ThatBlockchain-Exchange secure?
+#### Is Trustless -Exchange secure?
 
-➝ Yes, ThatBlockchain-Exchange is designed to be highly secure. The platform uses advanced security measures such as two-factor authentication and multi-signature wallets to protect users' funds from theft and hacking attempts.
+➝ Yes, Trustless -Exchange is designed to be highly secure. The platform uses advanced security measures such as two-factor authentication and multi-signature wallets to protect users' funds from theft and hacking attempts.
 
-#### What fees does ThatBlockchain-Exchange charge?
+#### What fees does Trustless -Exchange charge?
 
-➝ ThatBlockchain-Exchange allows users to set their own fees for trading. This helps to reduce costs and increase profitability for traders. 1% fee is charged for all the transactions.
+➝ Trustless -Exchange allows users to set their own fees for trading. This helps to reduce costs and increase profitability for traders. 1% fee is charged for all the transactions.
 
-#### Is ThatBlockchain-Exchange easy to use?
+#### Is Trustless -Exchange easy to use?
 
-➝ Yes, ThatBlockchain-Exchange was designed to be user-friendly and accessible to anyone, regardless of their technical expertise. The platform features a simple and intuitive interface that makes it easy for anyone to start trading.
+➝ Yes, Trustless -Exchange was designed to be user-friendly and accessible to anyone, regardless of their technical expertise. The platform features a simple and intuitive interface that makes it easy for anyone to start trading.
 
-#### How does ThatBlockchain-Exchange ensure the execution of trustless transactions?
+#### How does Trustless -Exchange ensure the execution of trustless transactions?
 
-➝ ThatBlockchain-Exchange uses smart contracts to automate the trading process. These smart contracts are programmed to execute trades automatically when certain conditions are met. By using smart contracts, ThatBlockchain-Exchange eliminates the need for intermediaries or centralized authorities to facilitate trades, ensuring that transactions are executed in a trustless manner.
+➝ Trustless -Exchange uses smart contracts to automate the trading process. These smart contracts are programmed to execute trades automatically when certain conditions are met. By using smart contracts, Trustless -Exchange eliminates the need for intermediaries or centralized authorities to facilitate trades, ensuring that transactions are executed in a trustless manner.
 
-#### Can users trade on ThatBlockchain-Exchange from anywhere in the world?
+#### Can users trade on Trustless -Exchange from anywhere in the world?
 
-➝ Yes, ThatBlockchain-Exchange is a decentralized platform that can be accessed from anywhere in the world, as long as users have an internet connection and access to the Ethereum blockchain.
+➝ Yes, Trustless -Exchange is a decentralized platform that can be accessed from anywhere in the world, as long as users have an internet connection and access to the Ethereum blockchain.
 
-#### Is ThatBlockchain-Exchange open-source?
+#### Is Trustless -Exchange open-source?
 
-➝ Yes, ThatBlockchain-Exchange is an open-source project released under the MIT License. This means that the code is freely available for anyone to use, modify and distribute.
+➝ Yes, Trustless -Exchange is an open-source project released under the MIT License. This means that the code is freely available for anyone to use, modify and distribute.

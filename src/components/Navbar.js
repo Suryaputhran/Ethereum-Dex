@@ -29,8 +29,8 @@ const Navbar = () => {
         <div className="exchange__header grid">
 
             <div className="exchange__header--brand flex">
-                <img src={logo} className="logo" alt="Exchange Logo"></img>
-                <h1>ThatBlockchain Exchange</h1>
+                {/*<img src={logo} className="logo" alt="Exchange Logo"></img>*/}
+                <h1>Trustless Exchange</h1>
             </div>
 
             <div className="exchange__header--networks flex">

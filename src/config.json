@@ -1,55 +1,55 @@
 {
   "31337": {
     "decentralizedexchange": {
-      "address": "0xa513E6E4b8f2a923D98304ec87F64353C4D5C853"
+      "address": "0xc17CB54E44B20003Cfd25EdAB25FEe6FF1F99BdA"
     },
     "Finix": {
-      "address": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0"
+      "address": "0xc17CB54E44B20003Cfd25EdAB25FEe6FF1F99BdA"
     },
     "Auriga": {
-      "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+      "address": "0xc17CB54E44B20003Cfd25EdAB25FEe6FF1F99BdA"
     },
     "Empyrean": {
-      "address": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512"
+      "address": "0x5b31bB122A4C6FbDC6a5F30c9e304EE51f7ecD83"
     },
     "Helix": {
-      "address": "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9"
+      "address": "0x02736edcF2D1C66314e7592DbBEd4C3142ef6E97"
     },
     "Quantum": {
-      "address": "0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9"
+      "address": "0xE0E04bb3660D8F1d39576835166DE71E10c73A1d"
     },
     "Sirius": {
-      "address": "0x5FC8d32690cc91D4c39d9d3abcBD16989F875707"
+      "address": "0x9B101aDF71cD61FEf004B006018De5aFAD82f842"
     },
     "Zeroconium": {
-      "address": "0x0165878A594ca255338adfa4d48449f69242Eb8F"
+      "address": "0x9932f976B8aea21a7aC6D27aAF96323a13ae8Fed"
     },
     "explorerURL": "#"
   },
   "11155111": {
     "decentralizedexchange": {
-      "address": "0x5642171c2ef813e1525A278F4f6f77a9A36E6ad6"
+      "address": "0x8e3Cc3F66a26D1D6FB8900418f87CB53B88E6b57"
     },
     "Finix": {
-      "address": "0x46320530C0b3f16D6fcd5E6b48BC19cfdA675Dba"
+      "address": "0x43e1DAaC4D56fbf880117f739d09844BC1Bc286a"
     },
     "Auriga": {
-      "address": "0xF4CfDfEA1A7Eb1214659BA08e3b8edd9F8c2Cf00"
+      "address": "0xf94553241EB52542BA0bfA7345fef3EB7d392a03"
     },
     "Empyrean": {
-      "address": "0x3b6C0e030170B754FEC374EA40Ac52cB160457FA"
+      "address": "0x5b31bB122A4C6FbDC6a5F30c9e304EE51f7ecD83"
     },
     "Helix": {
-      "address": "0x9A93128681DC7F0960DE72db14AFD27C2AF40D9e"
+      "address": "0x02736edcF2D1C66314e7592DbBEd4C3142ef6E97"
     },
     "Quantum": {
-      "address": "0x55F24d469869c083E9702296b405722E25d6C042"
+      "address": "0xE0E04bb3660D8F1d39576835166DE71E10c73A1d"
     },
     "Sirius": {
-      "address": "0xDa70e9fce63aFd4d3F82dcFebe19B9Ec3D72936F"
+      "address": "0x9B101aDF71cD61FEf004B006018De5aFAD82f842"
     },
     "Zeroconium": {
-      "address": "0x0687610988e5A1cf4Dd6e1C3BB3820d2Bcf06bB3"
+      "address": "0x9932f976B8aea21a7aC6D27aAF96323a13ae8Fed"
     },
     "explorerURL": "https://sepolia.etherscan.io/"
   },
