@@ -32,8 +32,6 @@ This project may be of interest to individuals who are passionate about blockcha
 
 Looking for a detailed breakdown of the features offered by the website? You must check out the preview at :
 
-https://thatblockchainexchange.on.fleek.co
-
 It focuses on all of the important features and capabilities.
 ## Tech Stack
 
@@ -111,45 +109,7 @@ Note:
 You can get an Infura API key by signing up for a free account at https://infura.io/.
 
 You can get an Metamask wallet by installing Metamask extension on your browser at https://metamask.io/download/.
-## Installation & Deployment
 
-1. Make sure you have Git, Node.js, and npm installed on your computer.
-
-2. Clone the repository by running the following command in your terminal:
-```bash
-  git clone https://github.com/exyreams/Trustless -Exchange.git
-```
-
-3. Navigate to the directory where you cloned the repository and install the required dependencies by running the following command:
-```bash
-  npm install
-```
-
-4. Run hardhat node using the command given below.
-```bash
-  npx hardhat node
-```
-
-5. After running node in your local host, now deploy the hardhat scripts using the commands as shown below.
-```bash
-  npx hardhat run scripts scripts/1_deploy.js --network localhost
-  npx hardhat run scripts scripts/1_seed_exchange.js --network localhost
-```
-
-6. If you want to use different network replace the name of network like this.
-```bash
-//for sepolia
-npx hardhat run scripts scripts/1_deploy.js --network sepolia
-npx hardhat run scripts scripts/1_seed_exchange.js --network sepolia
-
-//for kovan
-npx hardhat run scripts scripts/1_deploy.js --network kovan
-npx hardhat run scripts scripts/1_seed_exchange.js --network kovan
-
-//for goerli
-npx hardhat run scripts scripts/1_deploy.js --network goerli
-npx hardhat run scripts scripts/1_seed_exchange.js --network goerli
-```
 ## License
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
